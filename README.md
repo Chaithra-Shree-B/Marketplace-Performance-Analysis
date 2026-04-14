@@ -46,7 +46,7 @@ This dashboard helps stakeholders:
 
 📷 Dashboard Preview
 
-(Add your dashboard image/thumbnail here)
+(https://github.com/Chaithra-Shree-B/Marketplace-Performance-Analysis/blob/main/Market%20place%20Performance%20Analytics%20-%20Dashboard.png)
 
 💡 Conclusion
 
